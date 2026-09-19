@@ -15,5 +15,9 @@ Thumbs.db
 
 output/
 *.xlsx
-*.csv
 
+.env
+datasets/UNSW-NB15_2.csv
+datasets/UNSW-NB15_3.csv
+
+datasets/*.csv
